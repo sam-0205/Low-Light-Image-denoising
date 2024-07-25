@@ -19,12 +19,16 @@ Low-light environments often result in images with high noise levels and poor vi
 - **Numpy**
 
 ### Steps
-1. **Download or Clone the repository**:
+1. **Download or Clone the repository** :
 ```
 git clone https://github.com/sam-0205/Low-Light-Image-denoising.git
 ```
-2. **Run main.py code**:
-- Once the code is ruuned a link is generarted which direct you to the required port as `  http://127.0.0.1:5001  ` .  
+2. **Run main.py code** :
+- Once the code is ruuned a link is generarted which direct you to the required port as `  http://127.0.0.1:5001  ` .
+
+3. **Image Storing** :
+- Here the uploaded image is stored in `uploads` folder.
+- After the operations are performed th enhanced images are stored in `static` folder. 
 
 
 ## Other Requrements
